@@ -1,4 +1,4 @@
-# Discord-Joiner (Working as of 1/28/2023)
+# Discord-Joiner (Working as of 3/15/2024)
 
 Discord Token Creator/Joiner developed by Pr0t0n
 
